@@ -2,6 +2,14 @@
 
 Um sistema de Bingo completo, desenvolvido para eventos de confraternização, focado em alta performance e interatividade em tempo real. O projeto utiliza **Laravel 11**, **Reverb** (WebSockets) e **Redis** para proporcionar uma experiência fluida tanto para o Administrador quanto para os Jogadores.
 
+
+
+
+https://github.com/user-attachments/assets/e5dfd379-5911-4b12-bab0-c2ff76bcbbdf
+
+
+
+
 ## 🚀 Funcionalidades
 
 - **Painel do Papai Noel (Admin):**
