@@ -13,7 +13,7 @@ export default defineConfig({
     server: {
         host: '0.0.0.0', // Isso expõe para todas as interfaces (IPs)
         hmr: {
-            host: '172.29.254.116' // COLOQUE O IP DO SEU WINDOWS AQUI
+            host: '172.29.254.116' // COLOQUE O IP DO SEU SERVIDOR AQUI
         },
         watch: {
             ignored: ['**/storage/framework/views/**'],
